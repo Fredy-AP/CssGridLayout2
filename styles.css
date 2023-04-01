@@ -58,17 +58,21 @@ html{
 }
     @media screen and (max-width: 767px){
     .papasito{
-        margin:auto;
+       
         font-size:18px;
     }
 
     .hijito3{
-        margin:auto;
+        
         font-size: 20px;
     }
      
     .hijito2{
-        margin:auto;
+      
         font-size:10px
         }
+    .hijito1{
+    background-image: url("https://fondosmil.com/fondo/48386.jpg");
+    background-position:right;
+   }
 }

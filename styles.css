@@ -59,7 +59,8 @@ html{
     @media screen and (max-width: 767px){
     .papasito{
        
-        font-size:3000px;
+        font-size:30px;
+        width:100%;
     }
 
     .hijito3{

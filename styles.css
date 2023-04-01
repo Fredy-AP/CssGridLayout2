@@ -56,7 +56,7 @@ html{
     text-align: center;
     
 }
-    @media screen and (max-width: 200px){
+    @media screen and (max-width: 500px){
     .papasito{
         font-size:18px;
     }

@@ -56,16 +56,19 @@ html{
     text-align: center;
     
 }
-    @media screen and (max-width: 370px){
+    @media screen and (max-width: 767px){
     .papasito{
+        margin:auto;
         font-size:18px;
     }
 
     .hijito3{
+        margin:auto;
         font-size: 20px;
     }
      
     .hijito2{
+        margin:auto;
         font-size:10px
         }
 }
